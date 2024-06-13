@@ -6,7 +6,7 @@ The objective of this project is to identify the type of black hole using a data
 
 ## Data Description
 
-The dataset contains various features, including medical and demographic information. Key columns include:
+The dataset contains various features, including luminosity and radio freq information. Key columns include:
 - Multiple numerical and categorical features representing data.
 
 ## Methodology
